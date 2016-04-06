@@ -1,0 +1,1 @@
+<?php exit;?>{"HD-PXTU2":{"name":"HD-PXTU2","path":"\/media\/HD-PXTU2\/"},"Movies":{"name":"Movies","path":"\/media\/HD-PXTU2\/Movies\/"},"web":{"name":"web","path":"\/media\/HD-PXTU2\/web\/"}}
